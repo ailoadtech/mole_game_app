@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color sky_top
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+raw music
+string app_name
+string down
+string left
+string right
+string up
+style Theme.MoleGame

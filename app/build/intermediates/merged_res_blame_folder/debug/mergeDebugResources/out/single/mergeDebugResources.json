@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.molegame.app-debug-4:/raw_music.wav.flat",
+        "source": "com.example.molegame.app-main-6:/raw/music.wav"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.example.molegame.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.png"
+    }
+]

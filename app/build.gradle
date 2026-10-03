@@ -1,0 +1,44 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.molegame'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.molegame"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        debug {
+            // Debug (auto-signed) build, as requested.
+            applicationIdSuffix ""
+            minifyEnabled false
+        }
+        release {
+            minifyEnabled false
+            signingConfig debug.signingConfig
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    packagingOptions {
+        resources.excludes += ['META-INF/*']
+    }
+}
+
+// Name the built debug artifact molegame.apk
+android.applicationVariants.all { variant ->
+    variant.outputs.all {
+        outputFileName = "molegame.apk"
+    }
+}

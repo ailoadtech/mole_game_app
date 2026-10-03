@@ -1,0 +1,11 @@
+com.example.molegame:string/down = 0x7f040001
+com.example.molegame:string/app_name = 0x7f040000
+com.example.molegame:string/up = 0x7f040004
+com.example.molegame:string/left = 0x7f040002
+com.example.molegame:mipmap/ic_launcher = 0x7f020000
+com.example.molegame:raw/music = 0x7f030000
+com.example.molegame:mipmap/ic_launcher_round = 0x7f020002
+com.example.molegame:style/Theme.MoleGame = 0x7f050000
+com.example.molegame:string/right = 0x7f040003
+com.example.molegame:mipmap/ic_launcher_foreground = 0x7f020001
+com.example.molegame:color/sky_top = 0x7f010000

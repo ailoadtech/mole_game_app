@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.molegame.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/c/temp/_ki_project_aws/molegame_app/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                },
+                {
+                    "source": "/mnt/c/temp/_ki_project_aws/molegame_app/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "481"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "296",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "722"
+                    }
+                },
+                {
+                    "source": "/mnt/c/temp/_ki_project_aws/molegame_app/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,136,174,212,102",
+                        "endColumns": "46,37,37,39,33",
+                        "endOffsets": "97,169,207,247,131"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "99,146,184,222,262",
+                        "endColumns": "46,37,37,39,33",
+                        "endOffsets": "141,179,217,257,291"
+                    }
+                }
+            ]
+        }
+    ]
+}
